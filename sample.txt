@@ -1,0 +1,5 @@
+Python is a popular programming language.
+Python is easy to learn and useful for automation.
+Learning Python helps students build projects.
+A good project helps students practice programming.
+Programming with Python is fun and useful.
